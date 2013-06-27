@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/prboom/!svn/ver/4290/branches/prboom-plus-24/prboom2/src/MUSIC
+END
+opl_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/opl_queue.c
+END
+opl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/opl.h
+END
+dbopl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/3846/branches/prboom-plus-24/prboom2/src/MUSIC/dbopl.c
+END
+musicplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/3964/branches/prboom-plus-24/prboom2/src/MUSIC/musicplayer.h
+END
+opl_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/opl_queue.h
+END
+portmidiplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/4267/branches/prboom-plus-24/prboom2/src/MUSIC/portmidiplayer.c
+END
+dumbplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/3964/branches/prboom-plus-24/prboom2/src/MUSIC/dumbplayer.c
+END
+dbopl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/3872/branches/prboom-plus-24/prboom2/src/MUSIC/dbopl.h
+END
+oplplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3988/branches/prboom-plus-24/prboom2/src/MUSIC/oplplayer.c
+END
+portmidiplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/portmidiplayer.h
+END
+dumbplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/dumbplayer.h
+END
+oplplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/oplplayer.h
+END
+flplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/4290/branches/prboom-plus-24/prboom2/src/MUSIC/flplayer.c
+END
+madplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3987/branches/prboom-plus-24/prboom2/src/MUSIC/madplayer.c
+END
+vorbisplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3969/branches/prboom-plus-24/prboom2/src/MUSIC/vorbisplayer.c
+END
+midifile.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/4006/branches/prboom-plus-24/prboom2/src/MUSIC/midifile.c
+END
+madplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/madplayer.h
+END
+flplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/flplayer.h
+END
+vorbisplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/MUSIC/vorbisplayer.h
+END
+midifile.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/3964/branches/prboom-plus-24/prboom2/src/MUSIC/midifile.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3869/branches/prboom-plus-24/prboom2/src/MUSIC/Makefile.am
+END
+opl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/4164/branches/prboom-plus-24/prboom2/src/MUSIC/opl.c
+END

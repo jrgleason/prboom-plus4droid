@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/prboom/!svn/ver/3897/branches/prboom-plus-24/prboom2/src/MUSIC/lib
+END
+dumbd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/3897/branches/prboom-plus-24/prboom2/src/MUSIC/lib/dumbd.lib
+END
+libvorbis.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libvorbis.lib
+END
+libvorbisfile.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libvorbisfile.lib
+END
+libmadd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/3897/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libmadd.lib
+END
+libfluidsynth.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/3835/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libfluidsynth.lib
+END
+libogg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libogg.lib
+END
+dumb.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/3835/branches/prboom-plus-24/prboom2/src/MUSIC/lib/dumb.lib
+END
+portmidi.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/lib/portmidi.lib
+END
+libmad.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3835/branches/prboom-plus-24/prboom2/src/MUSIC/lib/libmad.lib
+END

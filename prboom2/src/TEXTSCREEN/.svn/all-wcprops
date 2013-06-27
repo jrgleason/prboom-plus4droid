@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/3950/branches/prboom-plus-24/prboom2/src/TEXTSCREEN
+END
+txt_radiobutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_radiobutton.h
+END
+txt_separator.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_separator.c
+END
+txt_dropdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_dropdown.h
+END
+txt_separator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_separator.h
+END
+txt_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_io.c
+END
+txt_inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_inputbox.c
+END
+txt_desktop.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_desktop.c
+END
+txt_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_button.c
+END
+txt_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_font.h
+END
+txt_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_io.h
+END
+txt_inputbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_inputbox.h
+END
+txt_desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_desktop.h
+END
+txt_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_button.h
+END
+txt_strut.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_strut.c
+END
+txt_widget.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_widget.c
+END
+txt_gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_gui.c
+END
+txt_strut.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_strut.h
+END
+txt_checkbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_checkbox.c
+END
+txt_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_table.c
+END
+txt_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_widget.h
+END
+txt_gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_gui.h
+END
+textscreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/textscreen.h
+END
+txt_checkbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_checkbox.h
+END
+txt_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_table.h
+END
+txt_spinctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3950/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_spinctrl.c
+END
+doomkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/doomkeys.h
+END
+txt_scrollpane.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/3287/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_scrollpane.c
+END
+txt_spinctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_spinctrl.h
+END
+txt_window_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_window_action.c
+END
+txt_smallfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/prboom/!svn/ver/3287/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_smallfont.h
+END
+txt_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_window.c
+END
+txt_scrollpane.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/3287/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_scrollpane.h
+END
+txt_window_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_window_action.h
+END
+txt_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_window.h
+END
+txt_label.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_label.c
+END
+txt_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/3857/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_sdl.c
+END
+txt_label.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_label.h
+END
+txt_sdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_sdl.h
+END
+txt_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_main.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3281/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/Makefile.am
+END
+txt_radiobutton.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prboom/!svn/ver/2801/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_radiobutton.c
+END
+txt_dropdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3282/branches/prboom-plus-24/prboom2/src/TEXTSCREEN/txt_dropdown.c
+END

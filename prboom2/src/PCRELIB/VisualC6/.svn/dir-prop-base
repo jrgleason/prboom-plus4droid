@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 148
+ReleasePCREPOISX
+DebugDFTables
+DebugPCRE
+DebugPCREPOISX
+ReleaseDFTables
+ReleasePCRE
+pcrelib.opt
+pcreposix.plg
+dftables.plg
+pcre.plg
+pcrelib.ncb
+Lib
+
+END

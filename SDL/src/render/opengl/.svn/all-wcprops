@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengl
+END
+SDL_shaders_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengl/SDL_shaders_gl.h
+END
+SDL_render_gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengl/SDL_render_gl.c
+END
+SDL_glfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengl/SDL_glfuncs.h
+END
+SDL_shaders_gl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengl/SDL_shaders_gl.c
+END

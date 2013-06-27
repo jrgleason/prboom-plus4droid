@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/43/trunk/jni/SDL/src
+END
+SDL_fatal.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_fatal.h
+END
+SDL_error_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_error_c.h
+END
+SDL.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL.c
+END
+SDL_assert.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_assert.c
+END
+SDL_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_log.c
+END
+SDL_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_compat.c
+END
+SDL_hints.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_hints.c
+END
+SDL_fatal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_fatal.c
+END
+SDL_assert_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_assert_c.h
+END
+SDL_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/trunk/jni/SDL/src/SDL_error.c
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/jni/SDL/src/loadso/windows
+END
+SDL_sysloadso.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/jni/SDL/src/loadso/windows/SDL_sysloadso.c
+END

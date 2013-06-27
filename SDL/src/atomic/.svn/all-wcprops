@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/SDL/src/atomic
+END
+SDL_atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/jni/SDL/src/atomic/SDL_atomic.c
+END
+SDL_spinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/jni/SDL/src/atomic/SDL_spinlock.c
+END

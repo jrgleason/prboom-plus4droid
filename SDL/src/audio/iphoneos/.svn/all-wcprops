@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/iphoneos
+END
+SDL_coreaudio_iphone.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/iphoneos/SDL_coreaudio_iphone.c
+END
+SDL_coreaudio_iphone.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/iphoneos/SDL_coreaudio_iphone.h
+END

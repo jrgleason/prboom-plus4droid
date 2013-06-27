@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/SDL/src/core/android
+END
+SDL_android.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/jni/SDL/src/core/android/SDL_android.cpp
+END
+SDL_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/jni/SDL/src/core/android/SDL_android.h
+END

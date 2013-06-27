@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/prboom/!svn/ver/3928/branches/prboom-plus-24/prboom2/src/PCSOUND
+END
+pcsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/3928/branches/prboom-plus-24/prboom2/src/PCSOUND/pcsound.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2527/branches/prboom-plus-24/prboom2/src/PCSOUND/Makefile.am
+END
+pcsound_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2484/branches/prboom-plus-24/prboom2/src/PCSOUND/pcsound_linux.c
+END
+pcsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/2964/branches/prboom-plus-24/prboom2/src/PCSOUND/pcsound.c
+END
+pcsound_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/PCSOUND/pcsound_sdl.c
+END
+pcsound_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2964/branches/prboom-plus-24/prboom2/src/PCSOUND/pcsound_win32.c
+END

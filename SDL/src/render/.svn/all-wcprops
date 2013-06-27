@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/43/trunk/jni/SDL/src/render
+END
+SDL_yuv_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/SDL_yuv_sw.c
+END
+SDL_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/SDL_render.c
+END
+SDL_yuv_sw_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/SDL_yuv_sw_c.h
+END
+SDL_sysrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/SDL_sysrender.h
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/mmx.h
+END
+SDL_yuv_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/SDL_yuv_mmx.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software
+END
+SDL_drawpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_drawpoint.h
+END
+SDL_blendline.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendline.c
+END
+SDL_blendpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendpoint.c
+END
+SDL_blendfillrect.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendfillrect.h
+END
+SDL_render_sw_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_render_sw_c.h
+END
+SDL_blendline.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendline.h
+END
+SDL_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_draw.h
+END
+SDL_blendpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendpoint.h
+END
+SDL_drawline.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_drawline.c
+END
+SDL_drawpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_drawpoint.c
+END
+SDL_render_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_render_sw.c
+END
+SDL_blendfillrect.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_blendfillrect.c
+END
+SDL_drawline.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/software/SDL_drawline.h
+END

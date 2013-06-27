@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/paudio
+END
+SDL_paudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/paudio/SDL_paudio.c
+END
+SDL_paudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/paudio/SDL_paudio.h
+END

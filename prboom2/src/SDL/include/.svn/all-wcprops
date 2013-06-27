@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/jni/prboom/include
+END
+jni_doom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/jni/prboom/include/jni_doom.h
+END
+doom_jni_Natives_EventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/43/trunk/jni/prboom/include/doom_jni_Natives_EventListener.h
+END
+doom_jni_Natives.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/prboom/include/doom_jni_Natives.h
+END

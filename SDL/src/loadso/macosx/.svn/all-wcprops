@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/loadso/macosx
+END
+SDL_dlcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/jni/SDL/src/loadso/macosx/SDL_dlcompat.c
+END

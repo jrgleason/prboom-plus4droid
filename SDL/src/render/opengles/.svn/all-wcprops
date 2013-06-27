@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengles
+END
+SDL_render_gles.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/opengles/SDL_render_gles.c
+END

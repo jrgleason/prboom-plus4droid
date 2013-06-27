@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/prboom/!svn/ver/4031/branches/prboom-plus-24/prboom2/tests
+END
+weaponinfo.wad
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/3727/branches/prboom-plus-24/prboom2/tests/weaponinfo.wad
+END
+sky.wad
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/prboom/!svn/ver/4031/branches/prboom-plus-24/prboom2/tests/sky.wad
+END
+heightlist_overflow.wad
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3127/branches/prboom-plus-24/prboom2/tests/heightlist_overflow.wad
+END
+demo-testing.csv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/1547/branches/prboom-plus-24/prboom2/tests/demo-testing.csv
+END
+donut_av.wad
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prboom/!svn/ver/3315/branches/prboom-plus-24/prboom2/tests/donut_av.wad
+END
+lmpwatch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/2700/branches/prboom-plus-24/prboom2/tests/lmpwatch.pl
+END
+missed_back_side.zip
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3566/branches/prboom-plus-24/prboom2/tests/missed_back_side.zip
+END
+boxes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/2158/branches/prboom-plus-24/prboom2/tests/boxes.pl
+END
+crosses.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/2158/branches/prboom-plus-24/prboom2/tests/crosses.pl
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/1640/branches/prboom-plus-24/prboom2/tests/runtests.py
+END

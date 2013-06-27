@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/direct3d
+END
+SDL_render_d3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/render/direct3d/SDL_render_d3d.c
+END

@@ -1,0 +1,10 @@
+LOCAL_PATH := $(call my-dir)
+include $(CLEAR_VARS)
+LOCAL_MODULE    := SDL
+LOCAL_C_INCLUDES := $(LOCAL_PATH)/include $(LOCAL_PATH)/src
+LOCAL_CFLAGS := -DGL_VERSION_1_5 -DHAVE_CONFIG_H -DNORMALUNIX -DLINUX -O3 -ffast-math -fexpensive-optimizations 
+LOCAL_SRC_FILES := \
+       $(subst $(LOCAL_PATH)/,, \
+       $(wildcard $(LOCAL_PATH)/src/*.c))
+LOCAL_LDLIBS := -lm -llog -ldl -l -lGLESv1_CM -lGLESv2
+include $(BUILD_SHARED_LIBRARY)

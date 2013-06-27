@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android
+END
+SDL_androidvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidvideo.h
+END
+SDL_androidwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidwindow.h
+END
+SDL_androidkeyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidkeyboard.c
+END
+SDL_androidtouch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidtouch.c
+END
+SDL_androidgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidgl.c
+END
+SDL_androidevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidevents.c
+END
+SDL_androidkeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidkeyboard.h
+END
+SDL_androidvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidvideo.c
+END
+SDL_androidtouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidtouch.h
+END
+SDL_androidwindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidwindow.c
+END
+SDL_androidevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/android/SDL_androidevents.h
+END

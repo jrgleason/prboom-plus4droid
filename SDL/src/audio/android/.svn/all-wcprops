@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/android
+END
+SDL_androidaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/android/SDL_androidaudio.c
+END
+SDL_androidaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/audio/android/SDL_androidaudio.h
+END

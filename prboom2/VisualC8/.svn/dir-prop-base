@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 135
+Debug
+DebugGL
+DebugNOASM
+DebugNOASMGL
+DebugServer
+Doom.ncb
+Doom.suo
+*.user
+Release
+ReleaseGL
+ReleaseNOASM
+ReleaseNOASMGL
+ReleaseServer
+
+END

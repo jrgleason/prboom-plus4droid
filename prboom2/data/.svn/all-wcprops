@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/prboom/!svn/ver/4299/branches/prboom-plus-24/prboom2/data
+END
+rd_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_util.c
+END
+rd_graphic.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4271/branches/prboom-plus-24/prboom2/data/rd_graphic.c
+END
+rd_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_util.h
+END
+rd_graphic.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4271/branches/prboom-plus-24/prboom2/data/rd_graphic.h
+END
+rd_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/4271/branches/prboom-plus-24/prboom2/data/rd_main.c
+END
+rd_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_sound.c
+END
+rd_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_sound.h
+END
+rd_palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_palette.c
+END
+convert-icon
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/2805/branches/prboom-plus-24/prboom2/data/convert-icon
+END
+rd_output.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_output.c
+END
+palette.rgb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/palette.rgb
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/4299/branches/prboom-plus-24/prboom2/data/Makefile.am
+END
+rd_palette.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_palette.h
+END
+rd_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/4265/branches/prboom-plus-24/prboom2/data/rd_output.h
+END
+prboom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/4299/branches/prboom-plus-24/prboom2/data/prboom.txt
+END

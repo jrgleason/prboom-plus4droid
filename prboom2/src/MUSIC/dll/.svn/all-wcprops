@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/dll
+END
+portmidi.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/dll/portmidi.dll
+END
+libvorbis-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/dll/libvorbis-0.dll
+END
+libvorbisfile-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/dll/libvorbisfile-3.dll
+END
+libogg-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/3840/branches/prboom-plus-24/prboom2/src/MUSIC/dll/libogg-0.dll
+END

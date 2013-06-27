@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/3871/branches/prboom-plus-24/prboom2/src/MUSIC/include/vorbis/vorbis
+END
+vorbisenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/prboom/!svn/ver/3835/branches/prboom-plus-24/prboom2/src/MUSIC/include/vorbis/vorbis/vorbisenc.h
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/prboom/!svn/ver/3835/branches/prboom-plus-24/prboom2/src/MUSIC/include/vorbis/vorbis/codec.h
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/prboom/!svn/ver/3871/branches/prboom-plus-24/prboom2/src/MUSIC/include/vorbis/vorbis/vorbisfile.h
+END

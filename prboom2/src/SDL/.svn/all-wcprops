@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/prboom/!svn/ver/4291/branches/prboom-plus-24/prboom2/src/SDL
+END
+i_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4287/branches/prboom-plus-24/prboom2/src/SDL/i_video.c
+END
+i_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4273/branches/prboom-plus-24/prboom2/src/SDL/i_sound.c
+END
+i_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/3830/branches/prboom-plus-24/prboom2/src/SDL/i_network.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/3162/branches/prboom-plus-24/prboom2/src/SDL/Makefile.am
+END
+SDL_win32_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/1824/branches/prboom-plus-24/prboom2/src/SDL/SDL_win32_main.c
+END
+i_sshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/4262/branches/prboom-plus-24/prboom2/src/SDL/i_sshot.c
+END
+i_joy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/prboom/!svn/ver/4282/branches/prboom-plus-24/prboom2/src/SDL/i_joy.c
+END
+i_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/4291/branches/prboom-plus-24/prboom2/src/SDL/i_main.c
+END
+i_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prboom/!svn/ver/4275/branches/prboom-plus-24/prboom2/src/SDL/i_system.c
+END

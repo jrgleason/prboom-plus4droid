@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/prboom/!svn/ver/4273/branches/prboom-plus-24/prboom2/src/POSIX
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/1709/branches/prboom-plus-24/prboom2/src/POSIX/Makefile.am
+END
+i_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/4273/branches/prboom-plus-24/prboom2/src/POSIX/i_system.c
+END

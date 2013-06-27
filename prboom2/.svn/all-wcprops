@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/prboom/!svn/ver/4313/branches/prboom-plus-24/prboom2
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/prboom/!svn/ver/4288/branches/prboom-plus-24/prboom2/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/prboom/!svn/ver/2939/branches/prboom-plus-24/prboom2/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/prboom/!svn/ver/2939/branches/prboom-plus-24/prboom2/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/prboom/!svn/ver/4166/branches/prboom-plus-24/prboom2/INSTALL
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/prboom/!svn/ver/1527/branches/prboom-plus-24/prboom2/FAQ
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/prboom/!svn/ver/1527/branches/prboom-plus-24/prboom2/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/prboom/!svn/ver/4038/branches/prboom-plus-24/prboom2/Makefile.am
+END
+prboom.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/prboom/!svn/ver/2024/branches/prboom-plus-24/prboom2/prboom.spec.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/prboom/!svn/ver/2939/branches/prboom-plus-24/prboom2/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/prboom/!svn/ver/4166/branches/prboom-plus-24/prboom2/README
+END
+make-release.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/1652/branches/prboom-plus-24/prboom2/make-release.cmd
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/prboom/!svn/ver/1807/branches/prboom-plus-24/prboom2/bootstrap
+END

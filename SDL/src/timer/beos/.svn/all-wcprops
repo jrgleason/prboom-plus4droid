@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/trunk/jni/SDL/src/timer/beos
+END
+SDL_systimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/SDL/src/timer/beos/SDL_systimer.c
+END

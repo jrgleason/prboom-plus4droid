@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/prboom/!svn/ver/2646/branches/prboom-plus-24/prboom2/src/PCRELIB
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/Makefile.in
+END
+pcrecpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcrecpp.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/AUTHORS
+END
+pcre_scanner_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_scanner_unittest.cc
+END
+pcre_scanner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_scanner.cc
+END
+makevp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/makevp.bat
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/config.h
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/ltmain.sh
+END
+libpcreposix.def
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/libpcreposix.def
+END
+pcre-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre-config.in
+END
+perltest
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/perltest
+END
+pcre_chartables.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_chartables.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/configure.ac
+END
+pcre_printint.src
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_printint.src
+END
+pcre_ord2utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_ord2utf8.c
+END
+pcre_fullinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_fullinfo.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/COPYING
+END
+RunTest.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/RunTest.in
+END
+ucpinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/ucpinternal.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/NEWS
+END
+pcre_version.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_version.c
+END
+pcre_refcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_refcount.c
+END
+pcrecpp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcrecpp.cc
+END
+ucptable.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/ucptable.c
+END
+pcrecpparg.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcrecpparg.h.in
+END
+pcre_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_info.c
+END
+RunGrepTest.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/RunGrepTest.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/ChangeLog
+END
+pcre_scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_scanner.h
+END
+pcreposix.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcreposix.c
+END
+pcre_valid_utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_valid_utf8.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/config.h.in
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcreposix.h
+END
+pcre_study.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_study.c
+END
+pcre_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_tables.c
+END
+dftables.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/dftables.c
+END
+NON-UNIX-USE
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/NON-UNIX-USE
+END
+pcre_stringpiece_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_stringpiece_unittest.cc
+END
+pcre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_internal.h
+END
+ucp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/ucp.h
+END
+libpcre.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/libpcre.def
+END
+pcre_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_exec.c
+END
+pcredemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcredemo.c
+END
+pcre_stringpiece.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_stringpiece.h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/configure
+END
+pcre_compile.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_compile.c
+END
+libpcre.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/libpcre.pc.in
+END
+pcre_xclass.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_xclass.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/config.sub
+END
+pcre_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_config.c
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/LICENCE
+END
+pcre_maketables.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_maketables.c
+END
+pcre_ucp_searchfuncs.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_ucp_searchfuncs.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/INSTALL
+END
+pcre_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_get.c
+END
+pcre_stringpiece.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_stringpiece.cc
+END
+pcretest.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcretest.c
+END
+pcre_try_flipped.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_try_flipped.c
+END
+pcre_globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_globals.c
+END
+pcrecpp_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcrecpp_unittest.cc
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/mkinstalldirs
+END
+pcrelib.suo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcrelib.suo
+END
+pcre.def
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre.def
+END
+pcregrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcregrep.c
+END
+pcre_dfa_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/pcre_dfa_exec.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/README
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/prboom/!svn/ver/2225/branches/prboom-plus-24/prboom2/src/PCRELIB/install-sh
+END

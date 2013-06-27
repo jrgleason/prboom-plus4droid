@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/43/trunk/jni/SDL/src/joystick/android
+END
+SDL_sysjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/43/trunk/jni/SDL/src/joystick/android/SDL_sysjoystick.c
+END

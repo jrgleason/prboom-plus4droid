@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows
+END
+wmmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/wmmsg.h
+END
+SDL_windowsframebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsframebuffer.c
+END
+SDL_windowsopengl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsopengl.c
+END
+SDL_windowsmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsmouse.c
+END
+SDL_windowsframebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsframebuffer.h
+END
+SDL_windowsopengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsopengl.h
+END
+SDL_vkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_vkeys.h
+END
+SDL_windowsmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsmouse.h
+END
+SDL_windowsclipboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsclipboard.c
+END
+SDL_windowsshape.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsshape.c
+END
+SDL_windowskeyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowskeyboard.c
+END
+SDL_windowsclipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsclipboard.h
+END
+SDL_windowsevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsevents.c
+END
+SDL_windowsshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsshape.h
+END
+SDL_windowskeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowskeyboard.h
+END
+SDL_windowsvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsvideo.c
+END
+SDL_msctf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_msctf.h
+END
+SDL_windowsmodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsmodes.c
+END
+SDL_windowswindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowswindow.c
+END
+SDL_windowsevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsevents.h
+END
+SDL_windowsvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsvideo.h
+END
+SDL_windowswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowswindow.h
+END
+SDL_windowsmodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/43/trunk/jni/SDL/src/video/windows/SDL_windowsmodes.h
+END
