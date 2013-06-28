@@ -9,9 +9,8 @@
 *.class
 
 # generated files
-bin/
-gen/
-libs
+bin
+gen
 obj
 
 # Local configuration file (sdk path, etc)
