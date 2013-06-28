@@ -630,7 +630,6 @@ void I_SetProcessPriority(void)
   }
 }
 
-//int main(int argc, const char * const * argv)
 int main(int argc, char **argv)
 {
 #ifdef SECURE_UID
